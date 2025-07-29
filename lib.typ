@@ -542,7 +542,7 @@ Generation symbols are used for visual debugging, currently they are disabled si
       #{
         if (
           case == 0
-        ) [Certain #ogs([#obj1\s]) in #field remain #stem\ed, under the assumtption that #res holds for all #ogs[#obj2\s].] else if (
+        ) [Certain #ogs([#obj1\s]) in #field remain #stem\ed, under the assumption that #res holds for all #ogs[#obj2\s].] else if (
           case == 1
         ) [Provided, #res we have that: ] else if (
           case == 2
